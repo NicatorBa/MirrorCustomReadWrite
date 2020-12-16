@@ -1,7 +1,6 @@
-﻿using System;
-using Mirror;
+﻿using Mirror;
 
-namespace Sample
+namespace Data
 {
     public readonly struct IdData
     {
