@@ -1,8 +1,8 @@
 {
     "name": "Sample",
     "references": [
-        "GUID:30817c1a0e6d646d99c048fc403f5979",
-        "GUID:2eaf421ecade2ea42afdc9011395bd01"
+        "GUID:2eaf421ecade2ea42afdc9011395bd01",
+        "GUID:30817c1a0e6d646d99c048fc403f5979"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
